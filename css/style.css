@@ -1,0 +1,16 @@
+.wrapper {
+    background-color: bisque;
+}
+
+.parallax {
+    background-image: url("../img/headerImage.jpg");
+    min-height: 200px;
+    /*background-attachment: fixed;*/
+    background-position-y: -100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-on {
+
+}
